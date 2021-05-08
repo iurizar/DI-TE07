@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=CHM.chm
+Contents file=Table of Contents.hhc
+Default Window=Main
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+Main="Gestión de Ventas - Dashboard","Table of Contents.hhc","Index.hhk",,,,,,,0x22520,,0x3006,,,,,,,,0
+
+
+[INFOTYPES]
+
