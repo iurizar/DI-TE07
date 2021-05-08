@@ -153,7 +153,7 @@ namespace DashboardUI.Formularios
 
         private void manualDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, "..\\..\\..\\Manual\\CHM.chm");
+            Help.ShowHelp(this, "Manual\\CHM.chm");
         }
     }
 }
