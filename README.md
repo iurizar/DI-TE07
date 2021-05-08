@@ -1,5 +1,4 @@
-<div align="center"><img src="https://img.shields.io/github/last-commit/iurizar/DI-TE07"/>
-<img src="https://img.shields.io/github/license/iurizar/DI-TE07"/></div>
+<div align="center"><img src="https://img.shields.io/github/last-commit/iurizar/DI-TE07"/></div>
 <h1 align="center">Gestor de Ventas - Dashboard</h1>
 <h3 align="center">by Iñigo Urizar Lete - BIRTLH</h3>
 <div align="center"><img src="DashboardUI/iconos/dashboard.jpg" width=700 height=420/></div>
